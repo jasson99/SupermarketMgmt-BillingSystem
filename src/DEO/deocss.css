@@ -1,0 +1,5 @@
+
+.addicon{
+     -fx-background-image: url("/images/addicon.png");
+    -fx-background-size: 100% 100%;
+}
